@@ -1,9 +1,12 @@
 <?php
 
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * This file is part of the Global Functions Mocker by Yassine Guedidi package.
+ * 
+ * (c) Yassine Guedidi <yassine@guedidi.com>
+ * 
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
  */
 
 namespace YassineGuedidi\GlobalFunctionsMocker;
@@ -15,5 +18,4 @@ namespace YassineGuedidi\GlobalFunctionsMocker;
  */
 class NoReturnValueException extends \Exception
 {
-
 }
